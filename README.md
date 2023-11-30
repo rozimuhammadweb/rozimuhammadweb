@@ -6,6 +6,6 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=https://www.linkedin.com/in/rozimuhammadibrohimjonov/&logoColor=white
+[![Linkedin Badge](https://img.shields.io/badge/-Ro'zimuhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sukhrob-nuraliev-100845186/](https://www.linkedin.com/in/rozimuhammadibrohimjonov/))]([https://www.linkedin.com/in/sukhrob-nuraliev-100845186/](https://www.linkedin.com/in/rozimuhammadibrohimjonov/)) 
 [![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
