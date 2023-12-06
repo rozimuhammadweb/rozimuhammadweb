@@ -1,7 +1,9 @@
 <h1 align="center">PHP Backend Developer</h1>
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 
 I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
