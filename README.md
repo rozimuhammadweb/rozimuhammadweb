@@ -1,6 +1,6 @@
 <h1 align="center">PHP Backend Developer</h1>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Assalomu alaykum! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
