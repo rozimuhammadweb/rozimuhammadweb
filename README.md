@@ -7,7 +7,7 @@
 
 I'm a Backend Software Engineer specializing in building high load backend services, web applications, and systems using PHP and Laravel, Yii2. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Telegram Badge](https://img.shields.io/badge/@IbrohimjonovR-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/IbrohimjonovR)](https://t.me/IbrohimjonovR) 
 [![Linkedin Badge](https://img.shields.io/badge/-Ro'zimuhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sukhrob-nuraliev-100845186/](https://www.linkedin.com/in/rozimuhammadibrohimjonov/))]([https://www.linkedin.com/in/sukhrob-nuraliev-100845186/](https://www.linkedin.com/in/rozimuhammadibrohimjonov/)) 
