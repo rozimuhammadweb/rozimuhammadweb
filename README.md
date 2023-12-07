@@ -11,7 +11,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ro'zimuhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sukhrob-nuraliev-100845186/](https://www.linkedin.com/in/rozimuhammadibrohimjonov/))]([https://www.linkedin.com/in/sukhrob-nuraliev-100845186/](https://www.linkedin.com/in/rozimuhammadibrohimjonov/)) 
 [![Telegram Badge](https://img.shields.io/badge/@IbrohimjonovR-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/IbrohimjonovR)](https://t.me/IbrohimjonovR) 
-[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
 ## ⚡ Technologies
 
 ![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
