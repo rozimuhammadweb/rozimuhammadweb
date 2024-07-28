@@ -5,7 +5,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 
-I'm a Backend Software Engineer specializing in building high load backend services, web applications, and systems using PHP and Yii2, Laravel . I solve problems, automate things, help businesses and people to grow and improve life. </br>
+I'm a Backend Engineer specializing in building high load backend services, web applications, and systems using PHP and Yii2, Laravel . I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
 I'm always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
